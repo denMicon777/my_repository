@@ -1,0 +1,6 @@
+
+	  <div class="col-md-3 col-md-offset-1">
+	    <div class="sidebar">
+		  <?php dynamic_sidebar('right_sidebar') ?>
+        </div>
+	  </div>
